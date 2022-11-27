@@ -3,10 +3,19 @@
 </div>
 
 <div id="header" align="center">
-Welcome to my GitHub profile! :)
+Welcome to my GitHub profile!
 </div>
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+- 📖: I’m studying Applied Cyber Analytics at UTSA.
+
+- 🌱: Learning how to use visual studio in the mean time.
+
+- 🎧: In my free time, I like to listen to the Malicious Life podcasts.
+
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-anthony-rodriguez-jr/)
